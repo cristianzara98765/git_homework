@@ -1,0 +1,4 @@
+#ignore ALL .temp files
+*.temp
+#ignore ALL files in ANY directory named temp
+temp/
