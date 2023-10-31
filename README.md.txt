@@ -22,7 +22,6 @@ New things learned from hands-on experience:
 
 1. Creating a repository and manipulating the files seems to be fast and useful in GIT terminal.
 2. Saving and uploading the info to github can also be made quick.
-3.The history of the commitments will be dispayed in both GIT terminal and Github.
+3.The history of the commitments will be dispayed in both GIT terminal and Githu
 
-
-
+End of document
